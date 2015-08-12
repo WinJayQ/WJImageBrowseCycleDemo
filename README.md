@@ -1,0 +1,2 @@
+# WJImageBrowseCycleDemo
+利用UIScrollView,UIImageView,UIPageControl做的图片无限循环浏览，加入NSTimer实现自动循环。
